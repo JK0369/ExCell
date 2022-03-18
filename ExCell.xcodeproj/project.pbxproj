@@ -13,6 +13,7 @@
 		C609BD3527E304CA001796F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C609BD3327E304CA001796F1 /* Main.storyboard */; };
 		C609BD3727E304CB001796F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C609BD3627E304CB001796F1 /* Assets.xcassets */; };
 		C609BD3A27E304CB001796F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C609BD3827E304CB001796F1 /* LaunchScreen.storyboard */; };
+		C62CC72427E321C700505C0B /* VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62CC72327E321C700505C0B /* VC2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C609BD3627E304CB001796F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C609BD3927E304CB001796F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C609BD3B27E304CB001796F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C62CC72327E321C700505C0B /* VC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C609BD2D27E304CA001796F1 /* AppDelegate.swift */,
 				C609BD2F27E304CA001796F1 /* SceneDelegate.swift */,
 				C609BD3127E304CA001796F1 /* ViewController.swift */,
+				C62CC72327E321C700505C0B /* VC2.swift */,
 				C609BD3327E304CA001796F1 /* Main.storyboard */,
 				C609BD3627E304CB001796F1 /* Assets.xcassets */,
 				C609BD3827E304CB001796F1 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C609BD3227E304CA001796F1 /* ViewController.swift in Sources */,
 				C609BD2E27E304CA001796F1 /* AppDelegate.swift in Sources */,
 				C609BD3027E304CA001796F1 /* SceneDelegate.swift in Sources */,
+				C62CC72427E321C700505C0B /* VC2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
